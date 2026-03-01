@@ -1,16 +1,10 @@
 EcommerceCRUD/
 │
-├── src/main/java/
-│   ├── LoginServlet.java
-│   ├── ProductServlet.java
-│   └── DatabaseConnection.java
-│
 ├── src/main/webapp/
-│   ├── Login.html
 │   ├── addProduct.jsp
-│   ├── viewProducts.jsp
+│   ├── insertProduct.jsp
 │   ├── updateProduct.jsp
 │   ├── deleteProduct.jsp
+│   ├── viewProducts.jsp
+│   ├── db.jsp
 │   └── style.css
-│
-└── pom.xml
