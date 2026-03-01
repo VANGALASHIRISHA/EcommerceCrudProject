@@ -1,21 +1,6 @@
-EcommerceCRUD/
-│
-├── src/
-│   └── main/
-│       ├── java/
-│       │   (Java files if any)
-│       │
-│       └── webapp/
-│           ├── META-INF/
-│           ├── WEB-INF/
-│           │
-│           ├── addProduct.jsp
-│           ├── insertProduct.jsp
-│           ├── editProduct.jsp
-│           ├── updateProduct.jsp
-│           ├── deleteProduct.jsp
-│           ├── viewProducts.jsp
-│           ├── db.jsp
-│           └── style.css
-│
-└── pom.xml
+The E-Commerce Product Management System is a web-based application developed using JSP and JDBC. The project performs complete CRUD (Create, Read, Update, Delete) operations on products and connects to an Oracle database for data storage.
+
+All backend logic is implemented using JSP scriptlets, demonstrating practical knowledge of Java web development and database integration.
+
+
+
